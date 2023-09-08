@@ -1,0 +1,22 @@
+{
+  "1": {
+    "name": "Accesories",
+    "description": "Here you will find all accesories listed"
+  },
+  "2": {
+    "name": "Cellphones",
+    "description": "Here you will find all cellphones listed"
+  },
+  "3": {
+    "name": "Tablets",
+    "description": "Here you will find all tablets listed"
+  },
+  "4": {
+    "name": "Computers",
+    "description": "Here you will find all computers listed"
+  },
+  "5": {
+    "name": "Tv's",
+    "description": "Here you will find all tv's listed"
+  }
+}

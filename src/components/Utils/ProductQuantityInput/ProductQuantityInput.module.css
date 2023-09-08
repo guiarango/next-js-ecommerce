@@ -1,0 +1,26 @@
+.optionsContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.button {
+  width: 30px;
+  cursor: pointer;
+  -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.363);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.363);
+  border-radius: 3px;
+}
+
+.input {
+  width: 30px;
+  text-align: center;
+}
